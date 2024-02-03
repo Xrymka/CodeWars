@@ -1,1 +1,2 @@
 # CodeWars
+# Tasks and solutions
