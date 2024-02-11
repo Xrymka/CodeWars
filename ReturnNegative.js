@@ -16,3 +16,13 @@ function makeNegative(num) {
     return -num
   }
 }
+
+// different solution which I liked
+function makeNegative(num) {
+  return num < 0 ? num : -num
+}
+
+// one more
+function makeNegative(num) {
+  return -Math.abs(num)
+}
